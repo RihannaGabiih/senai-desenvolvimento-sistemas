@@ -1,4 +1,4 @@
-package testes;
+package OrientaçãoObj;
 
 import java.util.Scanner;
 

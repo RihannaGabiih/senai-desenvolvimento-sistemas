@@ -2,7 +2,7 @@ package Aula1702;
 
 import java.util.Scanner;
 
-public class QuantidadeDeGasolina {
+public class quantidadedegasolina{
 
 	public static void main(String[] args) {
 		// Efetuar o cálculo da quantidade de litros de combustível,gasta em uma viagem, 

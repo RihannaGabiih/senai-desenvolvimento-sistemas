@@ -2,7 +2,7 @@ package Aula1702;
 
 import java.util.Scanner;
 
-public class VolumeCaixaRetangular {
+public class volumecaixaretangular {
 
 	public static void main(String[] args) {
 		// Calcular o volume de uma caixa retangular;

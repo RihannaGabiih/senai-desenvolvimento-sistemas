@@ -1,4 +1,4 @@
-package senai2dm;
+package OrientaçãoObj;
 
 public class Pessoa {
 	

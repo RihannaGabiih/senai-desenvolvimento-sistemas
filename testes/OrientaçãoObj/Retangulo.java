@@ -1,4 +1,4 @@
-package testes;
+package OrientaçãoObj;
 
 public class Retangulo {
 	
