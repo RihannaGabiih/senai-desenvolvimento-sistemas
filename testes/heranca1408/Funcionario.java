@@ -35,5 +35,6 @@ public class Funcionario {
 	public void setRg(String rg) {
 		this.rg = rg;
 	}
+	
 
 }
